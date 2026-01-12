@@ -1,0 +1,9 @@
+c#.sln
+obj/
+bin/
+day3.csproj
+day1.csproj
+day2.csproj
+day4.csproj
+c#.csproj
+guessNumber.csproj
