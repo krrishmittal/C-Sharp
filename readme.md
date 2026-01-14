@@ -38,8 +38,9 @@ I started from scratch and I'm documenting every step of my journey. From basic 
 
 ---
 
-### **Day 6: Coming Soon...** 🌟
-More advanced concepts on the way!
+### **Day 6: Strings & Arrays Deep Dive** 
+
+[View Day 6 Details →](day6/readme.md)
 
 ---
 
