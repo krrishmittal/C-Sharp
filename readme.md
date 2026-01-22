@@ -72,6 +72,12 @@ I started from scratch and I'm documenting every step of my journey. From basic 
 
 ---
 
+### **Day 11: LINQ (Language Integrated Query)** 
+
+[View Day 11 Details →](day11/readme.md)
+
+---
+
 ## 🎯 My Roadmap
 
 ```
