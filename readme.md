@@ -84,6 +84,12 @@ I started from scratch and I'm documenting every step of my journey. From basic 
 
 ---
 
+### **Day 13: Web API with Entity Framework Core & Database First Approach** 
+
+[View Day 13 Details →](day13/WebApiCrud/readme.md)
+
+---
+
 ## 🎯 My Roadmap
 
 ```
