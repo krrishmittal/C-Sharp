@@ -78,6 +78,12 @@ I started from scratch and I'm documenting every step of my journey. From basic 
 
 ---
 
+### **Day 12: Building Your First Web API with ASP.NET Core** 
+
+[View Day 12 Details →](day12/MyfirstwebApiProject/readme.md)
+
+---
+
 ## 🎯 My Roadmap
 
 ```
