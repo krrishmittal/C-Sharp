@@ -1,6 +1,5 @@
 ﻿using ContactsAPI.Models;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
 
 namespace ContactsAPI.Controllers
 {
